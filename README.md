@@ -21,6 +21,8 @@ Legend:
 - 💲 [The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution](https://www.amazon.com/The-Innovators-Walter-Isaacson-audiobook/dp/B00M9KICAY/ref=sr_1_1?crid=32HSXOQAHTLQE&keywords=The+Innovators%3A+How+a+Group+of+Hackers%2C+Geniuses+and+Geeks+Created+the+Digital+Revolution&qid=1672634835&sprefix=the+innovators+how+a+group+of+hackers%2C+geniuses+and+geeks+created+the+digital+revolution%2Caps%2C110&sr=8-1)
 - 💲 [Coders: The Making of a New Tribe and the Remaking of the World](https://www.goodreads.com/book/show/40406806-coders)
 - [LINQ explained with sketches](https://steven-giesel.com/blogPost/8d12d9ef-c4e6-439c-9f88-46825cf35576)
+- [Moving to the Cloud](https://www.getambassador.io/edge-stack-guide-v4)
+- [EbookFoundation](https://github.com/EbookFoundation/free-programming-books)
 
 
 ## Data Structure & Algorithms 
