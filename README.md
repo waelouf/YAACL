@@ -44,6 +44,7 @@ Legend:
 - [DevOps](https://roadmap.sh/devops)
 - [Software Architect](https://roadmap.sh/software-architect)
 - [Solution Architecture](https://github.com/NikAshanin/Solution-Architect-Road-Map)
+- [DevOps Roadmap 2022](https://github.com/milanm/DevOps-Roadmap)
 
 
 ## Design patterns
@@ -63,6 +64,7 @@ Legend:
 - [Martin Fowler Catalog of Patterns of Enterprise Application Architecture](https://martinfowler.com/eaaCatalog/)
 - [RedHat Enable Architect](https://www.redhat.com/architect/)
 - 📜 [14 software architecture design patterns to know](https://www.redhat.com/architect/14-software-architecture-patterns)
+- [ByteByteGo](https://blog.bytebytego.com/archive)
 
 ### Architecture tools
 - [Draw.io](https://draw.io/)
@@ -74,6 +76,7 @@ Legend:
 ### Microservices
 - [The Twelve Factors](https://12factor.net/)
 - [Microservice Architecture](https://microservices.io/patterns/)
+- [Top 10 Microservices Design Patterns and Principles - Examples](https://javarevisited.blogspot.com/2021/09/microservices-design-patterns-principles.html)
 
 
 ## Courses
@@ -98,6 +101,7 @@ Legend:
 - [Jason Goodison templates](https://www.figma.com/@jasongoodison)
 - 💲 [novoresume](https://novoresume.com/)
 - [Professional Programming](https://github.com/charlax/professional-programming)
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 
 
 ## Events, Podcasts and shows
@@ -134,10 +138,13 @@ Legend:
 - Dr. Milan Milanović: [@milan_milanovic](https://twitter.com/milan_milanovic)
 - Arslan Ahmad: [@arslanahmad](https://www.linkedin.com/in/arslanahmad/recent-activity/documents/)
 - Rapid API: [@Rapid_API](https://twitter.com/Rapid_API)
+- [Greg Coquillo](https://www.linkedin.com/in/greg-coquillo/recent-activity/shares/)
+- AR [Mohamed Hammad](https://www.linkedin.com/in/mohamed-hammad-a720a622/recent-activity/shares/)
 
 ## Cloud
 - [Cloud Native End User Technology Radar](https://radar.cncf.io/)
 - [Architecting Cloud Native .NET Applications for Azure](https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/)
+- [Cloud Product Mapping (AWS vs Azure vs GCP)](https://github.com/milanm/Cloud-Product-Mapping)
 
 ### AWS
 - [Free Udemy AWS Courses](https://www.linkedin.com/feed/update/urn:li:activity:7013924666566197248/?utm_source=share&utm_medium=member_android)
@@ -146,3 +153,5 @@ Legend:
 - [Serverless Microservice Patterns for AWS](https://www.jeremydaly.com/serverless-microservice-patterns-for-aws/)
 - [AWS Workshops](https://workshops.aws/)
 
+## Random/Misc
+- [Most stars repositories on GitHub](https://github.com/search?o=desc&q=stars%3A%3E100000&s=stars&type=Repositories)
