@@ -35,6 +35,7 @@ Legend:
 
 ## Refactoring
 - [Refactoring](https://sourcemaking.com/refactoring)
+- [Object Calisthenics](https://developerhandbook.stakater.com/content/architecture/object-calisthenics.html)
 
 ## Roadmaps
 - [Algorithms](https://neetcode.io/roadmap)
@@ -50,7 +51,7 @@ Legend:
 ## Design patterns
 - [Design Patterns](https://sourcemaking.com/design_patterns)
 - [Refactoring guru Design Patterns](https://refactoring.guru/design-patterns)
-- [AntiPatterns](https://sourcemaking.com/antipatterns)
+- [Software AntiPatterns](https://sourcemaking.com/antipatterns)
 - [Cloud Design Patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/)
 - [Clean Architecture](https://github.com/ardalis/cleanarchitecture)
 - 📜 [Clean Code concepts adapted for .NET/.NET Core](https://github.com/thangchung/clean-code-dotnet)
@@ -65,6 +66,7 @@ Legend:
 - [RedHat Enable Architect](https://www.redhat.com/architect/)
 - 📜 [14 software architecture design patterns to know](https://www.redhat.com/architect/14-software-architecture-patterns)
 - [ByteByteGo](https://blog.bytebytego.com/archive)
+- [Software Architecture AntiPatterns](https://sourcemaking.com/antipatterns/software-architecture-antipatterns)
 
 ### Architecture tools
 - [Draw.io](https://draw.io/)
@@ -72,6 +74,9 @@ Legend:
 - [lucidchart](https://www.lucidchart.com/pages/solutions/engineering)
 - [figma](https://www.figma.com/)
 - [Software architecture tools](https://softwarearchitecture.tools/)
+- [C4 model](https://c4model.com/)
+- [Structurizr](https://structurizr.com/help/cli)
+
 
 ### Microservices
 - [The Twelve Factors](https://12factor.net/)
@@ -156,3 +161,4 @@ Legend:
 
 ## Random/Misc
 - [Most stars repositories on GitHub](https://github.com/search?o=desc&q=stars%3A%3E100000&s=stars&type=Repositories)
+- [Project Management AntiPatterns](https://sourcemaking.com/antipatterns/software-project-management-antipatterns)
