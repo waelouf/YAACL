@@ -99,6 +99,7 @@ Legend:
 - [DALL-E](https://labs.openai.com/)
 - [ChatGPT](https://chat.openai.com/)
 - [GitHub Copilot](https://github.com/features/copilot)
+- [43 AI powered tools that will help boost your productivity](https://www.linkedin.com/posts/generative-artificial-intelligence_chatgpt-activity-7019600274499502083-sNAR/?utm_source=share&utm_medium=member_desktop) - [PDF](./Assets/1673603122254.pdf)
 
 
 ## Career
