@@ -119,6 +119,7 @@ Legend:
 - [Microsoft Shows](https://learn.microsoft.com/en-us/shows/browse)
 
 ## Youtube channels
+- [Tim Corey](https://www.youtube.com/@IAmTimCorey/videos)
 - [freecodecamp](https://www.youtube.com/@freecodecamp)
 - [Fireship](https://www.youtube.com/@Fireship)
 - [Hussein Nasser](https://www.youtube.com/@hnasr)
