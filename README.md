@@ -99,6 +99,7 @@ Legend:
 - [DALL-E](https://labs.openai.com/)
 - [ChatGPT](https://chat.openai.com/)
 - [GitHub Copilot](https://github.com/features/copilot)
+- [OpenAI Codex](https://beta.openai.com/playground) - AI system that translates natural language to code
 - [43 AI powered tools that will help boost your productivity](https://www.linkedin.com/posts/generative-artificial-intelligence_chatgpt-activity-7019600274499502083-sNAR/?utm_source=share&utm_medium=member_desktop) - [PDF](./Assets/1673603122254.pdf)
 
 
@@ -126,6 +127,7 @@ Legend:
 - [CSDojo](https://www.youtube.com/@CSDojo/videos)
 - [CodeOpinion](https://www.youtube.com/@CodeOpinion)
 - [Nick Chapsas](https://www.youtube.com/@nickchapsas)
+- [CrashCourse](https://www.youtube.com/@crashcourse)
 
 
 ## git repos
@@ -138,7 +140,12 @@ Legend:
 - [Equinox Project](https://github.com/EduardoPires/EquinoxProject): The goal of this project is implement the most common used technologies and share with the technical community the best way to develop great applications with .NET.
 - [Clean Architecture Solution Template](https://github.com/jasontaylordev/CleanArchitecture)
 - [NorthwindTraders](https://github.com/jasontaylordev/NorthwindTraders): A sample application built using ASP.NET Core and Entity Framework Core.
+- Coffeeshop: An event-driven microservices coffee shop application
+    - Go: [go-coffeeshop](https://github.com/thangchung/go-coffeeshop)
+    - .NET [with Microservices approach](https://github.com/thangchung/coffeeshop-on-nomad)
+    - .NET [with Modular Monolith approach](https://github.com/thangchung/coffeeshop-modular)
 - AR [Awesome in Arabic](https://github.com/abdumostafa/awesome-in-arabic)
+
 
 ## Twitter & LinkedIn profile to follow
 - Martin Fowler: [@martinfowler](https://twitter.com/martinfowler)
