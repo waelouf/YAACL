@@ -67,7 +67,7 @@ Legend:
 - 📜 [14 software architecture design patterns to know](https://www.redhat.com/architect/14-software-architecture-patterns)
 - [ByteByteGo](https://blog.bytebytego.com/archive)
 - [Software Architecture AntiPatterns](https://sourcemaking.com/antipatterns/software-architecture-antipatterns)
-- (EVA Visuals)[https://eda-visuals.boyney.io/]: Event-driven architectures visuals
+- [EVA Visuals](https://eda-visuals.boyney.io/): Event-driven architectures visuals
 
 ### Architecture tools
 - [Draw.io](https://draw.io/)
