@@ -161,6 +161,7 @@ Legend:
 - [Cloud Native End User Technology Radar](https://radar.cncf.io/)
 - [Architecting Cloud Native .NET Applications for Azure](https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/)
 - [Cloud Product Mapping (AWS vs Azure vs GCP)](https://github.com/milanm/Cloud-Product-Mapping)
+- [wing](https://www.winglang.io/): A cloud-oriented programming language
 
 ### AWS
 - [Free Udemy AWS Courses](https://www.linkedin.com/feed/update/urn:li:activity:7013924666566197248/?utm_source=share&utm_medium=member_android)
