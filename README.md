@@ -142,6 +142,7 @@ Legend:
 - [Equinox Project](https://github.com/EduardoPires/EquinoxProject): The goal of this project is implement the most common used technologies and share with the technical community the best way to develop great applications with .NET.
 - [Clean Architecture Solution Template](https://github.com/jasontaylordev/CleanArchitecture)
 - [NorthwindTraders](https://github.com/jasontaylordev/NorthwindTraders): A sample application built using ASP.NET Core and Entity Framework Core.
+- [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
 - Coffeeshop: An event-driven microservices coffee shop application
     - Go: [go-coffeeshop](https://github.com/thangchung/go-coffeeshop)
     - .NET [with Microservices approach](https://github.com/thangchung/coffeeshop-on-nomad)
