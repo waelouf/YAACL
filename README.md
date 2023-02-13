@@ -1,3 +1,27 @@
+Table of contents:
+- [YAACL (Yet Another Awesome Clone List)](#yaacl-yet-another-awesome-clone-list)
+  - [News](#news)
+  - [Books](#books)
+  - [Data Structure \& Algorithms](#data-structure--algorithms)
+  - [Refactoring](#refactoring)
+  - [Roadmaps](#roadmaps)
+  - [Design patterns](#design-patterns)
+  - [Architecture](#architecture)
+    - [Architecture tools](#architecture-tools)
+    - [Microservices](#microservices)
+  - [Courses](#courses)
+  - [Database](#database)
+  - [AI](#ai)
+  - [Career](#career)
+  - [Events, Podcasts and shows](#events-podcasts-and-shows)
+  - [Youtube channels](#youtube-channels)
+  - [git repos](#git-repos)
+  - [Twitter \& LinkedIn profile to follow](#twitter--linkedin-profile-to-follow)
+  - [Cloud](#cloud)
+    - [AWS](#aws)
+  - [Random/Misc](#randommisc)
+
+
 # YAACL (Yet Another Awesome Clone List)
 
 This repo is heavily inspired by sindresorhus's [Awesome](https://github.com/sindresorhus/awesome) repository
@@ -12,6 +36,7 @@ Legend:
 - [Hacker News](https://news.ycombinator.com/)
 - [thoughtworks's Technology Radar](https://www.thoughtworks.com/radar)
 - [DEV Community](https://dev.to/)
+- [daily.dev](https://app.daily.dev/)
 
 ## Books
 - ⭐💲 [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_1?keywords=cracking+the+coding+interview+2022&qid=1672613145&sprefix=cracking%2Caps%2C181&sr=8-1)
@@ -100,9 +125,14 @@ Legend:
 - [Midjourney](https://www.midjourney.com/home/) - [Discord](https://discord.com/channels/662267976984297473/966491148640211034)
 - [DALL-E](https://labs.openai.com/)
 - [ChatGPT](https://chat.openai.com/)
+  - [ChatGPT-Prompts](https://github.com/PrathamKumar14/ChatGPT-Prompts)
 - [GitHub Copilot](https://github.com/features/copilot)
 - [OpenAI Codex](https://beta.openai.com/playground) - AI system that translates natural language to code
 - [43 AI powered tools that will help boost your productivity](https://www.linkedin.com/posts/generative-artificial-intelligence_chatgpt-activity-7019600274499502083-sNAR/?utm_source=share&utm_medium=member_desktop) - [PDF](./Assets/1673603122254.pdf)
+- [copy.ai](https://www.copy.ai/): Content generator for maeketing agencies
+- [excel formul abot](https://excelformulabot.com/): Transform  text instructions into Excel formulas
+- [slidesai.io](https://www.slidesai.io/):Create Presentation Slides
+- [writerly.ai](https://writerly.ai/): Helps the most innovative businesses, teams, and creators produce hyper-relevant, SEO optimized content
 
 
 ## Career
@@ -111,6 +141,8 @@ Legend:
 - 💲 [novoresume](https://novoresume.com/)
 - [Professional Programming](https://github.com/charlax/professional-programming)
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+- [cvlogin](https://cvlogin.com/)
+- 
 
 
 ## Events, Podcasts and shows
@@ -147,6 +179,7 @@ Legend:
     - Go: [go-coffeeshop](https://github.com/thangchung/go-coffeeshop)
     - .NET [with Microservices approach](https://github.com/thangchung/coffeeshop-on-nomad)
     - .NET [with Modular Monolith approach](https://github.com/thangchung/coffeeshop-modular)
+- [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist)
 - AR [Awesome in Arabic](https://github.com/abdumostafa/awesome-in-arabic)
 
 
