@@ -142,7 +142,6 @@ Legend:
 - [Professional Programming](https://github.com/charlax/professional-programming)
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 - [cvlogin](https://cvlogin.com/)
-- 
 
 
 ## Events, Podcasts and shows
