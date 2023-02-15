@@ -114,6 +114,8 @@ Legend:
 ## Courses
 - ⭐[freecodecamp](https://www.freecodecamp.org/)
 - [Microsoft Learn](https://learn.microsoft.com/en-us/training/)
+- [DevOps Courses](https://www.edx.org/learn/devops)
+- [Introduction to IT & Cybersecurity](https://www.cybrary.it/course/introduction-to-it-and-cybersecurity/)
 - 💲 [Grokking the System Design and Coding Interview](https://designgurus.org/home)
 - 💲 AR [Distributed System Design Introduction in Arabic](https://www.udemy.com/course/distributed-system-design-in-arabic/)
 
@@ -196,8 +198,11 @@ Legend:
 - [Architecting Cloud Native .NET Applications for Azure](https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/)
 - [Cloud Product Mapping (AWS vs Azure vs GCP)](https://github.com/milanm/Cloud-Product-Mapping)
 - [wing](https://www.winglang.io/): A cloud-oriented programming language
+- [The Google Cloud Developer's Visual Notes](https://github.com/priyankavergadia/GCPSketchnote)
+- [Computer Networking Tutorial: The Ultimate Guide](https://www.softwaretestinghelp.com/computer-networking-basics/)
 
 ### AWS
+- [AWS Skill builder](explore.skillbuilder.aws)
 - [Free Udemy AWS Courses](https://www.linkedin.com/feed/update/urn:li:activity:7013924666566197248/?utm_source=share&utm_medium=member_android)
 - [The Open Guide to Amazon Web Services](https://github.com/open-guides/og-aws)
 - [AWS Cloud Design Patterns](https://en.clouddesignpattern.org/index.php/Main_Page)
