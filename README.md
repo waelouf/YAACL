@@ -156,6 +156,7 @@ Legend:
 - [Microsoft Shows](https://learn.microsoft.com/en-us/shows/browse)
 
 ## Youtube channels
+- [AWS Events](https://www.youtube.com/@AWSEventsChannel)
 - [Tim Corey](https://www.youtube.com/@IAmTimCorey/videos)
 - [freecodecamp](https://www.youtube.com/@freecodecamp)
 - [Fireship](https://www.youtube.com/@Fireship)
@@ -164,7 +165,6 @@ Legend:
 - [CodeOpinion](https://www.youtube.com/@CodeOpinion)
 - [Nick Chapsas](https://www.youtube.com/@nickchapsas)
 - [CrashCourse](https://www.youtube.com/@crashcourse)
-
 
 ## git repos
 - [Backstage](https://github.com/backstage/backstage): Open platform for building developer portals
