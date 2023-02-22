@@ -90,6 +90,7 @@ Legend:
 - [Martin Fowler Catalog of Patterns of Enterprise Application Architecture](https://martinfowler.com/eaaCatalog/)
 - [RedHat Enable Architect](https://www.redhat.com/architect/)
 - 📜 [14 software architecture design patterns to know](https://www.redhat.com/architect/14-software-architecture-patterns)
+- [High scalability](http://highscalability.com/)
 - [ByteByteGo](https://blog.bytebytego.com/archive)
 - [Software Architecture AntiPatterns](https://sourcemaking.com/antipatterns/software-architecture-antipatterns)
 - [Serverless Land](https://serverlessland.com/): Building Event Driven Architectures
@@ -208,6 +209,9 @@ Legend:
 - [AWS Cloud Design Patterns](https://en.clouddesignpattern.org/index.php/Main_Page)
 - [Serverless Microservice Patterns for AWS](https://www.jeremydaly.com/serverless-microservice-patterns-for-aws/)
 - [AWS Workshops](https://workshops.aws/)
+- [AWS Architecture Center](https://aws.amazon.com/architecture/)
+- [AWS Well-Architected Guidance](https://aws.amazon.com/architecture/well-architected/)
+- [AWS Solutions Library](https://aws.amazon.com/solutions/)
 
 ## Random/Misc
 - [Most stars repositories on GitHub](https://github.com/search?o=desc&q=stars%3A%3E100000&s=stars&type=Repositories)
