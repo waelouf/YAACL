@@ -177,6 +177,7 @@ Legend:
 - [Clean Architecture Solution Template](https://github.com/jasontaylordev/CleanArchitecture)
 - [NorthwindTraders](https://github.com/jasontaylordev/NorthwindTraders): A sample application built using ASP.NET Core and Entity Framework Core.
 - [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
+- [OWASP Top 10](https://github.com/OWASP/Top10/blob/master/2021/docs/index.md)
 - Coffeeshop: An event-driven microservices coffee shop application
     - Go: [go-coffeeshop](https://github.com/thangchung/go-coffeeshop)
     - .NET [with Microservices approach](https://github.com/thangchung/coffeeshop-on-nomad)
