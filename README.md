@@ -203,7 +203,11 @@ Legend:
 - [Computer Networking Tutorial: The Ultimate Guide](https://www.softwaretestinghelp.com/computer-networking-basics/)
 
 ### AWS
-- [AWS Skill builder](explore.skillbuilder.aws)
+- [AWS Skill builder]([explore.skillbuilder.aws](https://explore.skillbuilder.aws/learn))
+- [developer.aws](https://aws.amazon.com/developer/)
+- [repost.aws](https://repost.aws/)
+- [calculator.aws](https://calculator.aws/#/)
+- [studiolab.sagemaker.aws](https://studiolab.sagemaker.aws/)
 - [Free Udemy AWS Courses](https://www.linkedin.com/feed/update/urn:li:activity:7013924666566197248/?utm_source=share&utm_medium=member_android)
 - [The Open Guide to Amazon Web Services](https://github.com/open-guides/og-aws)
 - [AWS Cloud Design Patterns](https://en.clouddesignpattern.org/index.php/Main_Page)
