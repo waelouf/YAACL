@@ -12,12 +12,7 @@ Cache invalidation is the process of removing or updating cached data when it be
 
 ◇ 𝗦𝘁𝗮𝗹𝗲-𝘄𝗵𝗶𝗹𝗲-𝗿𝗲𝘃𝗮𝗹𝗶𝗱𝗮𝘁𝗲: This method is used in web browsers and CDNs to serve stale content from the cache while the content is being updated in the background. When a request is received for a piece of content, the cached version is immediately served to the user, and an asynchronous request is made to the origin server to fetch the latest version of the content. Once the latest version is available, the cached version is updated. This method ensures that the user is always served content quickly, even if the cached version is slightly outdated.
 
-
-![](%F0%9D%97%96%F0%9D%97%AE%F0%9D%97%B0%F0%9D%97%B5%F0%9D%97%B2%F0%9D%97%9C%F0%9D%97%BB%F0%9D%98%83%F0%9D%97%AE%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%B1%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B6%F0%9D%97%BCn.jpeg)
-
-
-
-
+![](CacheInvalidation.jpeg)
 
 
 
