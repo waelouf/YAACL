@@ -90,11 +90,13 @@ Legend:
 - [Martin Fowler Catalog of Patterns of Enterprise Application Architecture](https://martinfowler.com/eaaCatalog/)
 - [RedHat Enable Architect](https://www.redhat.com/architect/)
 - 📜 [14 software architecture design patterns to know](https://www.redhat.com/architect/14-software-architecture-patterns)
+- 📜 [What Are Microservices Design Patterns](https://www.codemotion.com/magazine/backend/what-are-microservices-design-patterns/)
 - [High scalability](http://highscalability.com/)
 - [ByteByteGo](https://blog.bytebytego.com/archive)
 - [Software Architecture AntiPatterns](https://sourcemaking.com/antipatterns/software-architecture-antipatterns)
 - [Serverless Land](https://serverlessland.com/): Building Event Driven Architectures
 - [EVA Visuals](https://eda-visuals.boyney.io/): Event-driven architectures visuals
+- 📜 [How Levels.fyi scaled to millions of users with Google Sheets as a backend](https://www.levels.fyi/blog/scaling-to-millions-with-google-sheets.html)
 
 ### Architecture tools
 - [Draw.io](https://draw.io/)
@@ -222,3 +224,4 @@ Legend:
 ## Random/Misc
 - [Most stars repositories on GitHub](https://github.com/search?o=desc&q=stars%3A%3E100000&s=stars&type=Repositories)
 - [Project Management AntiPatterns](https://sourcemaking.com/antipatterns/software-project-management-antipatterns)
+- [10 GitHub repositories to advance your career as a Developer](https://dev.to/iarchitsharma/10-as-a-developer-egn)
