@@ -106,6 +106,7 @@ Legend:
 - [Software architecture tools](https://softwarearchitecture.tools/)
 - [C4 model](https://c4model.com/)
 - [Structurizr](https://structurizr.com/help/cli)
+- [Mermaid Live editor](https://mermaid.live/)
 
 
 ### Microservices
