@@ -227,3 +227,4 @@ Legend:
 - [Most stars repositories on GitHub](https://github.com/search?o=desc&q=stars%3A%3E100000&s=stars&type=Repositories)
 - [Project Management AntiPatterns](https://sourcemaking.com/antipatterns/software-project-management-antipatterns)
 - [10 GitHub repositories to advance your career as a Developer](https://dev.to/iarchitsharma/10-as-a-developer-egn)
+- [Code Crafters](https://app.codecrafters.io/) Practice Writing Complex Software
