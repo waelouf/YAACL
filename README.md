@@ -120,6 +120,7 @@ Legend:
 - [Microsoft Learn](https://learn.microsoft.com/en-us/training/)
 - [DevOps Courses](https://www.edx.org/learn/devops)
 - [Introduction to IT & Cybersecurity](https://www.cybrary.it/course/introduction-to-it-and-cybersecurity/)
+- [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 - 💲 [Grokking the System Design and Coding Interview](https://designgurus.org/home)
 - 💲 AR [Distributed System Design Introduction in Arabic](https://www.udemy.com/course/distributed-system-design-in-arabic/)
 
@@ -140,6 +141,8 @@ Legend:
 - [slidesai.io](https://www.slidesai.io/):Create Presentation Slides
 - [writerly.ai](https://writerly.ai/): Helps the most innovative businesses, teams, and creators produce hyper-relevant, SEO optimized content
 - [rytr](https://rytr.me/): Rytr is an AI writing assistant that helps you create high-quality content, in just a few seconds, at a fraction of the cost
+- [leonardo.ai](https://app.leonardo.ai/ai-generations)
+- [G2](https://www.g2.com/): AI assistant for buying software, powered by ChatGPT.
 - 📜 [Optimise Your Resume With AI](https://blog.joberty.de/how-to-optimise-your-resume-with-ai/)
 
 

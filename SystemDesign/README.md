@@ -6,3 +6,5 @@
 - [essential for System Design](https://www.linkedin.com/posts/touseefliaqat_essentials-of-system-design-ugcPost-7011021648283774976-P4T0)
 - [Essentials for System Design Interview](Essentials%20for%20System%20Design%20Interview.pdf)
 - [𝗦𝘆𝘀𝘁𝗲𝗺 𝗗𝗲𝘀𝗶𝗴𝗻 𝗕𝗮𝘀𝗶𝗰𝘀: 𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀 𝘃𝘀. 𝗗𝗮𝘁𝗮 𝗪𝗮𝗿𝗲𝗵𝗼𝘂𝘀𝗲𝘀 𝘃𝘀. 𝗗𝗮𝘁𝗮 𝗟𝗮𝗸𝗲𝘀](https://www.linkedin.com/posts/arslanahmad_datascience-machinelearning-analytics-activity-7014058137959768064-GuTI/)
+- [12 Microservices Patterns I Wish I Knew Before the System Design Interview](https://levelup.gitconnected.com/12-microservices-pattern-i-wish-i-knew-before-the-system-design-interview-5c35919f16a2)
+- [16 System Design Concepts I Wish I Knew Before the Interview.](https://levelup.gitconnected.com/16-system-design-concepts-i-wish-i-knew-before-the-interview-b8586e40a73b)

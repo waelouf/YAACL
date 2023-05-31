@@ -6,3 +6,5 @@
 - [𝗧𝗵𝗲 𝗨𝗹𝘁𝗶𝗺𝗮𝘁𝗲 𝗖𝗼𝗱𝗶𝗻𝗴 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗖𝗵𝗲𝗮𝘁 𝗦𝗵𝗲𝗲𝘁: 𝟭𝟲 𝗔𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺𝗶𝗰 𝗧𝗿𝗶𝗰𝗸𝘀 𝗳𝗼𝗿 𝗦𝗼𝗹𝘃𝗶𝗻𝗴 𝗮 𝗖𝗼𝗱𝗶𝗻𝗴 𝗤𝘂𝗲𝘀𝘁𝗶𝗼𝗻 𝗶𝗻 𝗔𝗻 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄](https://www.linkedin.com/posts/arslanahmad_16-algorithmic-tricks-activity-7020663346274177024-O3GY/)
 - [Top LeetCode Patterns for FAANG Coding Interviews](https://designgurus.org/blog/top-lc-patterns)
 - [20 Coding Patterns to Master MAANG Interviews](https://www.linkedin.com/posts/arslanahmad_20-coding-patterns-to-master-maang-interviews-ugcPost-6981312033149399040-hjaw/)
+- [Grokking the Top 5 Most Challenging Coding Interview Questions for Google, Facebook, Amazon, Microsoft, and Apple.](https://medium.com/geekculture/grokking-the-top-5-most-difficult-coding-interview-questions-for-google-facebook-amazon-ee9e3794a812)
+- 
