@@ -212,7 +212,7 @@ Legend:
 - [Computer Networking Tutorial: The Ultimate Guide](https://www.softwaretestinghelp.com/computer-networking-basics/)
 
 ### AWS
-- [AWS Skill builder]([explore.skillbuilder.aws](https://explore.skillbuilder.aws/learn))
+- [AWS Skill builder](explore.skillbuilder.aws](https://explore.skillbuilder.aws/learn/ )
 - [developer.aws](https://aws.amazon.com/developer/)
 - [repost.aws](https://repost.aws/)
 - [calculator.aws](https://calculator.aws/#/)
