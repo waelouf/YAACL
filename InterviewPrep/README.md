@@ -7,4 +7,4 @@
 - [Top LeetCode Patterns for FAANG Coding Interviews](https://designgurus.org/blog/top-lc-patterns)
 - [20 Coding Patterns to Master MAANG Interviews](https://www.linkedin.com/posts/arslanahmad_20-coding-patterns-to-master-maang-interviews-ugcPost-6981312033149399040-hjaw/)
 - [Grokking the Top 5 Most Challenging Coding Interview Questions for Google, Facebook, Amazon, Microsoft, and Apple.](https://medium.com/geekculture/grokking-the-top-5-most-difficult-coding-interview-questions-for-google-facebook-amazon-ee9e3794a812)
-- 
+- [Grokking the Coding Interview: Mastering the 20 Coding Patterns](https://levelup.gitconnected.com/grokking-the-coding-interview-mastering-the-20-coding-patterns-a83ecef016b2)
