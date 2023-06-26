@@ -12,6 +12,9 @@ Table of contents:
   - [Courses](#courses)
   - [Database](#database)
   - [AI](#ai)
+    - [Coding](#coding)
+    - [Images](#images)
+    - [Other](#other)
   - [Career](#career)
   - [Events, Podcasts and shows](#events-podcasts-and-shows)
   - [Youtube channels](#youtube-channels)
@@ -129,19 +132,28 @@ Legend:
 - [SQL Server First Responder Kit](https://github.com/BrentOzarULTD/SQL-Server-First-Responder-Kit)
 
 ## AI
-- [Midjourney](https://www.midjourney.com/home/) - [Discord](https://discord.com/channels/662267976984297473/966491148640211034)
-- [DALL-E](https://labs.openai.com/)
+
+### Coding
 - [ChatGPT](https://chat.openai.com/)
   - [ChatGPT-Prompts](https://github.com/PrathamKumar14/ChatGPT-Prompts)
 - [GitHub Copilot](https://github.com/features/copilot)
 - [OpenAI Codex](https://beta.openai.com/playground) - AI system that translates natural language to code
+- [tabnine](https://www.tabnine.com/)
+- [cody](https://about.sourcegraph.com/cody)
+- [mutable](https://mutable.ai/)
+
+### Images
+- [Midjourney](https://www.midjourney.com/home/) - [Discord](https://discord.com/channels/662267976984297473/966491148640211034)
+- [DALL-E](https://labs.openai.com/)
+- [leonardo.ai](https://app.leonardo.ai/ai-generations)
+
+### Other
 - [43 AI powered tools that will help boost your productivity](https://www.linkedin.com/posts/generative-artificial-intelligence_chatgpt-activity-7019600274499502083-sNAR/?utm_source=share&utm_medium=member_desktop) - [PDF](./Assets/1673603122254.pdf)
 - [copy.ai](https://www.copy.ai/): Content generator for maeketing agencies
 - [excel formul abot](https://excelformulabot.com/): Transform  text instructions into Excel formulas
 - [slidesai.io](https://www.slidesai.io/):Create Presentation Slides
 - [writerly.ai](https://writerly.ai/): Helps the most innovative businesses, teams, and creators produce hyper-relevant, SEO optimized content
 - [rytr](https://rytr.me/): Rytr is an AI writing assistant that helps you create high-quality content, in just a few seconds, at a fraction of the cost
-- [leonardo.ai](https://app.leonardo.ai/ai-generations)
 - [G2](https://www.g2.com/): AI assistant for buying software, powered by ChatGPT.
 - 📜 [Optimise Your Resume With AI](https://blog.joberty.de/how-to-optimise-your-resume-with-ai/)
 
