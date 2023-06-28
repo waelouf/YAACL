@@ -87,7 +87,8 @@ Legend:
 
 ## Architecture
 - [The Distributed Computing Manifesto](https://www.allthingsdistributed.com/2022/11/amazon-1998-distributed-computing-manifesto.html)
-- [The System Design Primer](https://github.com/donnemartin/system-design-primer)
+- ⭐[The System Design Primer](https://github.com/donnemartin/system-design-primer)
+- [Back of the Envelope Calculation](https://dev.to/vladisov/back-of-the-envelope-calculation-4eal)
 - [Clean Architecture with .NET Core](https://jasontaylor.dev/clean-architecture-getting-started/)
 - [Awesome Software and Architectural Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
 - [Martin Fowler Catalog of Patterns of Enterprise Application Architecture](https://martinfowler.com/eaaCatalog/)
@@ -110,6 +111,7 @@ Legend:
 - [C4 model](https://c4model.com/)
 - [Structurizr](https://structurizr.com/help/cli)
 - [Mermaid Live editor](https://mermaid.live/)
+- [excalidraw](https://excalidraw.com/)
 
 
 ### Microservices
@@ -243,3 +245,5 @@ Legend:
 - [Project Management AntiPatterns](https://sourcemaking.com/antipatterns/software-project-management-antipatterns)
 - [10 GitHub repositories to advance your career as a Developer](https://dev.to/iarchitsharma/10-as-a-developer-egn)
 - [Code Crafters](https://app.codecrafters.io/) Practice Writing Complex Software
+- [Latency Numbers Every Programmer Should Know](https://gist.github.com/jboner/2841832) - [Visual](https://gist.github.com/hellerbarde/2843375)
+- 
