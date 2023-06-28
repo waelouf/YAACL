@@ -70,23 +70,39 @@ Links:
 - [Consistent Hashing](https://www.interviewcake.com/concept/java/consistent-hashing)
 
 
+
 ### Basic conversion
-| type | size (in byte)|
-|------|---------------|
-| byte, sbyte | 1      |
-| short, ushort | 2  |
-|int, uint | 4 |
-| float | 4 |
-|long, ulong | 8 |
-| double | 8 |
-| object | 4 (referene)|
-|char | 2 |
-| string | 4 (reference)|
-| decimal | 24 | 
-| bool | 1 | 
-|DateTime | 8 |
+
+| type | size (in byte)|size (in bits)|
+|------|---------------|--------------|
+| byte, sbyte | 1      |8     |
+| short, ushort | 2  |16|
+|int, uint | 4 |32|
+| float | 4 |32|
+|long, ulong | 8 |64|
+| double | 8 |64|
+| object | 4 (referene)|32|
+|char | 2 |16|
+| string | 4 (reference)|32|
+| decimal | 24 | |
+| bool | 1 | 8
+|DateTime | 8 | 64|
+
+
+Integer literals can be
+
+- decimal: without any prefix
+- hexadecimal: with the 0x or 0X prefix
+- binary: with the 0b or 0B prefix
+
+``` csharp
+var decimalLiteral = 42;
+var hexLiteral = 0x2A;
+var binaryLiteral = 0b_0010_1010;
+```
 
 
 Links:
 - (C# Primitive Datatypes)[https://condor.depaul.edu/sjost/nwdp/notes/cs1/CSDatatypes.htm]
 - [Back of the Envelope Calculation](https://dev.to/vladisov/back-of-the-envelope-calculation-4eal)
+- [Integral numeric types](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/integral-numeric-types)
