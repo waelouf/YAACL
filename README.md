@@ -9,6 +9,7 @@ Table of contents:
   - [Architecture](#architecture)
     - [Architecture tools](#architecture-tools)
     - [Microservices](#microservices)
+    - [OpenAPI](#openapi)
   - [Courses](#courses)
   - [Database](#database)
   - [AI](#ai)
@@ -119,6 +120,12 @@ Legend:
 - [Microservice Architecture](https://microservices.io/patterns/)
 - [Top 10 Microservices Design Patterns and Principles - Examples](https://javarevisited.blogspot.com/2021/09/microservices-design-patterns-principles.html)
 
+### OpenAPI
+- [Specs](https://swagger.io/specification/)
+- Tools:
+  - [openapi.tools](https://openapi.tools/)
+  - [Tools on Github](https://github.com/openapitools)
+  - [stoplight](https://stoplight.io/solutions)
 
 ## Courses
 - ⭐[freecodecamp](https://www.freecodecamp.org/)
