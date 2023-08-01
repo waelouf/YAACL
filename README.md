@@ -212,6 +212,7 @@ Legend:
     - .NET [with Microservices approach](https://github.com/thangchung/coffeeshop-on-nomad)
     - .NET [with Modular Monolith approach](https://github.com/thangchung/coffeeshop-modular)
 - [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist)
+- [Awesome Actions](https://github.com/sdras/awesome-actions)
 - AR [Awesome in Arabic](https://github.com/abdumostafa/awesome-in-arabic)
 
 
