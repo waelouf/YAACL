@@ -196,11 +196,8 @@ Legend:
 - [CrashCourse](https://www.youtube.com/@crashcourse)
 - [System Design Fight Club](https://www.youtube.com/@SDFC)
 - [ByteByteGo](https://www.youtube.com/@ByteByteGo)
-- [CodeOpinion](https://www.youtube.com/@CodeOpinion)
 - [IGotAnOffer: Engineering](https://www.youtube.com/@IGotAnOffer-Engineering)
-- [goto; Conferences](https://www.youtube.com/@GOTO-)
 - [LearnCantrill](https://www.youtube.com/@LearnCantrill/videos)
-- 
 
 ## git repos
 - [Backstage](https://github.com/backstage/backstage): Open platform for building developer portals
