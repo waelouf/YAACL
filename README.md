@@ -194,6 +194,11 @@ Legend:
 - [CodeOpinion](https://www.youtube.com/@CodeOpinion)
 - [Nick Chapsas](https://www.youtube.com/@nickchapsas)
 - [CrashCourse](https://www.youtube.com/@crashcourse)
+- [System Design Fight Club](https://www.youtube.com/@SDFC)
+- [ByteByteGo](https://www.youtube.com/@ByteByteGo)
+- [CodeOpinion](https://www.youtube.com/@CodeOpinion)
+- [IGotAnOffer: Engineering](https://www.youtube.com/@IGotAnOffer-Engineering)
+- [goto; Conferences](https://www.youtube.com/@GOTO-)
 
 ## git repos
 - [Backstage](https://github.com/backstage/backstage): Open platform for building developer portals
