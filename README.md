@@ -140,6 +140,7 @@ Legend:
 
 ## Database
 - [SQL Server First Responder Kit](https://github.com/BrentOzarULTD/SQL-Server-First-Responder-Kit)
+- [CMU Advanced Database Systems](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYzlLMbX3cR0sxWnRM7CLFn)
 
 ## AI
 
