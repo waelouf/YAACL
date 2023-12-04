@@ -137,7 +137,8 @@ Legend:
 - [Introduction to IT & Cybersecurity](https://www.cybrary.it/course/introduction-to-it-and-cybersecurity/)
 - [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 - 💲 [Grokking the System Design and Coding Interview](https://designgurus.org/home)
-- 💲 AR [Distributed System Design Introduction in Arabic](https://www.udemy.com/course/distributed-system-design-in-arabic/)
+- [Artificial Intelligence for Beginners - A Curriculum](https://microsoft.github.io/AI-For-Beginners/)
+- [Generative AI for Beginners - A Course](https://github.com/microsoft/generative-ai-for-beginners)
 
 
 ## Database
