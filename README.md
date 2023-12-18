@@ -94,6 +94,7 @@ Legend:
 - [Awesome Software and Architectural Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
 - [Martin Fowler Catalog of Patterns of Enterprise Application Architecture](https://martinfowler.com/eaaCatalog/)
 - [RedHat Enable Architect](https://www.redhat.com/architect/)
+- [Serverless Land](https://serverlessland.com/): This site brings together the latest information, blogs, videos, code, and learning resources for AWS Serverless. Learn to use and build apps that scale automatically on low-cost, fully-managed serverless architecture.
 - 📜 [14 software architecture design patterns to know](https://www.redhat.com/architect/14-software-architecture-patterns)
 - 📜 [What Are Microservices Design Patterns](https://www.codemotion.com/magazine/backend/what-are-microservices-design-patterns/)
 - [High scalability](http://highscalability.com/)
