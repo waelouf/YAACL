@@ -257,6 +257,7 @@ Legend:
 - [AWS Well-Architected Guidance](https://aws.amazon.com/architecture/well-architected/)
 - [AWS Solutions Library](https://aws.amazon.com/solutions/)
 - [AWS resources - mindmap](https://coggle.it/diagram/ZNyWdlpO0W45uyGP/t/star-fundamental-aws-concepts-star/e32b8f30645ef1e3ac58b95a70c8eeeff3d0f53796c601930f3752cae1f959e6)
+- [AWS With .NET](https://awswith.net/)
 
 ## Random/Misc
 - [Most stars repositories on GitHub](https://github.com/search?o=desc&q=stars%3A%3E100000&s=stars&type=Repositories)
