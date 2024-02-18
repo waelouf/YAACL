@@ -222,6 +222,7 @@ Legend:
     - .NET [with Modular Monolith approach](https://github.com/thangchung/coffeeshop-modular)
 - [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist)
 - [Awesome Actions](https://github.com/sdras/awesome-actions)
+- [Byte byte go's System Design 101](https://github.com/ByteByteGoHq/system-design-101)
 - AR [Awesome in Arabic](https://github.com/abdumostafa/awesome-in-arabic)
 
 
