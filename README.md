@@ -32,7 +32,7 @@ This repo is heavily inspired by sindresorhus's [Awesome](https://github.com/sin
 
 Legend:
 - ⭐- Recommended
-- 💲 - Paied
+- 💲 - Paid
 - 📜- Article
 - AR - Arabic content
 
