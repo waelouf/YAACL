@@ -266,4 +266,4 @@ Legend:
 - [10 GitHub repositories to advance your career as a Developer](https://dev.to/iarchitsharma/10-as-a-developer-egn)
 - [Code Crafters](https://app.codecrafters.io/) Practice Writing Complex Software
 - [Latency Numbers Every Programmer Should Know](https://gist.github.com/jboner/2841832) - [Visual](https://gist.github.com/hellerbarde/2843375)
-- 
+- [Best New Open Source Alternatives](https://osssoftware.org/open-source-alternatives/)
