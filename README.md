@@ -104,6 +104,7 @@ Legend:
 - 📜 [How Levels.fyi scaled to millions of users with Google Sheets as a backend](https://www.levels.fyi/blog/scaling-to-millions-with-google-sheets.html)
 - [Architectural Decision Records (ADRs)](https://adr.github.io/)
 - [https://plantuml.com/](https://plantuml.com/)
+- [High Scalability](https://highscalability.com/)
 
 ### Architecture tools
 - [Draw.io](https://draw.io/)
