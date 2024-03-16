@@ -236,6 +236,9 @@ Legend:
 - [Greg Coquillo](https://www.linkedin.com/in/greg-coquillo/recent-activity/shares/)
 - AR [Mohamed Hammad](https://www.linkedin.com/in/mohamed-hammad-a720a622/recent-activity/shares/)
 
+## DevOps & SRE
+- [Google's Site Reliability Engineering (SRE) book](https://sre.google/sre-book/table-of-contents/?utm_source=substack&utm_medium=email)
+
 ## Cloud
 - [Cloud Native End User Technology Radar](https://radar.cncf.io/)
 - [Architecting Cloud Native .NET Applications for Azure](https://learn.microsoft.com/en-us/dotnet/architecture/cloud-native/)
