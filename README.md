@@ -41,6 +41,7 @@ Legend:
 - [thoughtworks's Technology Radar](https://www.thoughtworks.com/radar)
 - [DEV Community](https://dev.to/)
 - [daily.dev](https://app.daily.dev/)
+- [DNK - DotNetKicks](https://dotnetkicks.com/)
 
 ## Books
 - ⭐💲 [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_1?keywords=cracking+the+coding+interview+2022&qid=1672613145&sprefix=cracking%2Caps%2C181&sr=8-1)
