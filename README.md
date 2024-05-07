@@ -265,6 +265,13 @@ Legend:
 - [AWS resources - mindmap](https://coggle.it/diagram/ZNyWdlpO0W45uyGP/t/star-fundamental-aws-concepts-star/e32b8f30645ef1e3ac58b95a70c8eeeff3d0f53796c601930f3752cae1f959e6)
 - [AWS With .NET](https://awswith.net/)
 
+## Homelab
+- Christian Lempa: [YouTube](https://www.youtube.com/@christianlempa) - [GitHub](https://github.com/christianlempa)
+- Jim's Garage: [YouTube](https://www.youtube.com/@Jims-Garage) - [GitHub](https://github.com/JamesTurland/JimsGarage)
+- Techno Tim: [YouTube](https://www.youtube.com/@TechnoTim) - [GitHub](https://github.com/timothystewart6)
+- NetworkChuck: [YouTube](https://www.youtube.com/@NetworkChuck)
+- Learn Linux TV: [YouTube](https://www.youtube.com/@LearnLinuxTV) - [GitHub](https://github.com/learnlinuxtv)
+
 ## Random/Misc
 - [Most stars repositories on GitHub](https://github.com/search?o=desc&q=stars%3A%3E100000&s=stars&type=Repositories)
 - [Project Management AntiPatterns](https://sourcemaking.com/antipatterns/software-project-management-antipatterns)
