@@ -205,6 +205,7 @@ Legend:
 - [ByteByteGo](https://www.youtube.com/@ByteByteGo)
 - [IGotAnOffer: Engineering](https://www.youtube.com/@IGotAnOffer-Engineering)
 - [LearnCantrill](https://www.youtube.com/@LearnCantrill/videos)
+- [Thriving Technologist](https://youtube.com/@healthydev)
 
 ## git repos
 - [Backstage](https://github.com/backstage/backstage): Open platform for building developer portals
