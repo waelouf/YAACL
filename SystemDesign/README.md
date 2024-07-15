@@ -8,3 +8,4 @@
 - [System Design Basics: Databases vs. Data Warehouses vs. Data Lakes](https://www.linkedin.com/posts/arslanahmad_datascience-machinelearning-analytics-activity-7014058137959768064-GuTI/)
 - [12 Microservices Patterns I Wish I Knew Before the System Design Interview](https://levelup.gitconnected.com/12-microservices-pattern-i-wish-i-knew-before-the-system-design-interview-5c35919f16a2)
 - [16 System Design Concepts I Wish I Knew Before the Interview.](https://levelup.gitconnected.com/16-system-design-concepts-i-wish-i-knew-before-the-interview-b8586e40a73b)
+- [10 Best GitHub Repositories to Prepare for System Design Interviews](https://medium.com/javarevisited/10-best-github-repositories-to-prepare-for-system-design-interviews-6cc9d37d50f6)
