@@ -274,10 +274,13 @@ Legend:
 - NetworkChuck: [YouTube](https://www.youtube.com/@NetworkChuck)
 - Learn Linux TV: [YouTube](https://www.youtube.com/@LearnLinuxTV) - [GitHub](https://github.com/learnlinuxtv)
 
+## Open Source (OSS)
+- [Best New Open Source Alternatives](https://osssoftware.org/open-source-alternatives/)
+- [Open Source alternatives to tools you Pay for](https://dev.to/johnrushx/open-source-alternatives-to-tools-you-pay-for-1g9c?ref=dailydev)
+
 ## Random/Misc
 - [Most stars repositories on GitHub](https://github.com/search?o=desc&q=stars%3A%3E100000&s=stars&type=Repositories)
 - [Project Management AntiPatterns](https://sourcemaking.com/antipatterns/software-project-management-antipatterns)
 - [10 GitHub repositories to advance your career as a Developer](https://dev.to/iarchitsharma/10-as-a-developer-egn)
 - [Code Crafters](https://app.codecrafters.io/) Practice Writing Complex Software
 - [Latency Numbers Every Programmer Should Know](https://gist.github.com/jboner/2841832) - [Visual](https://gist.github.com/hellerbarde/2843375)
-- [Best New Open Source Alternatives](https://osssoftware.org/open-source-alternatives/)
