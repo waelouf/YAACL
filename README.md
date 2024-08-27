@@ -276,7 +276,7 @@ Legend:
 
 ## Open Source (OSS)
 - [Best New Open Source Alternatives](https://osssoftware.org/open-source-alternatives/)
-- [Open Source alternatives to tools you Pay for](https://dev.to/johnrushx/open-source-alternatives-to-tools-you-pay-for-1g9c?ref=dailydev)
+- 📜 [Open Source alternatives to tools you Pay for](https://dev.to/johnrushx/open-source-alternatives-to-tools-you-pay-for-1g9c)
 - [CNCF Landscape](https://landscape.cncf.io/)
 
 ## Random/Misc
