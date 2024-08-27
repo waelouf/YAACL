@@ -84,7 +84,6 @@ Legend:
 - [Software AntiPatterns](https://sourcemaking.com/antipatterns)
 - [Cloud Design Patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/)
 - [Clean Architecture](https://github.com/ardalis/cleanarchitecture)
-- 📜 [Clean Code concepts adapted for .NET/.NET Core](https://github.com/thangchung/clean-code-dotnet)
 - [Design Patterns for Humans to C#](https://github.com/anupavanm/csharp-design-patterns-for-humans)
 
 ## Architecture
@@ -95,14 +94,11 @@ Legend:
 - [Awesome Software and Architectural Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
 - [Martin Fowler Catalog of Patterns of Enterprise Application Architecture](https://martinfowler.com/eaaCatalog/)
 - [RedHat Enable Architect](https://www.redhat.com/architect/)
-- 📜 [14 software architecture design patterns to know](https://www.redhat.com/architect/14-software-architecture-patterns)
-- 📜 [What Are Microservices Design Patterns](https://www.codemotion.com/magazine/backend/what-are-microservices-design-patterns/)
 - [High scalability](http://highscalability.com/)
 - [ByteByteGo](https://blog.bytebytego.com/archive)
 - [Software Architecture AntiPatterns](https://sourcemaking.com/antipatterns/software-architecture-antipatterns)
 - [Serverless Land](https://serverlessland.com/): Building Event Driven Architectures
 - [EVA Visuals](https://eda-visuals.boyney.io/): Event-driven architectures visuals
-- 📜 [How Levels.fyi scaled to millions of users with Google Sheets as a backend](https://www.levels.fyi/blog/scaling-to-millions-with-google-sheets.html)
 - [Architectural Decision Records (ADRs)](https://adr.github.io/)
 - [https://plantuml.com/](https://plantuml.com/)
 - [High Scalability](https://highscalability.com/)
@@ -171,7 +167,6 @@ Legend:
 - [writerly.ai](https://writerly.ai/): Helps the most innovative businesses, teams, and creators produce hyper-relevant, SEO optimized content
 - [rytr](https://rytr.me/): Rytr is an AI writing assistant that helps you create high-quality content, in just a few seconds, at a fraction of the cost
 - [G2](https://www.g2.com/): AI assistant for buying software, powered by ChatGPT.
-- 📜 [Optimise Your Resume With AI](https://blog.joberty.de/how-to-optimise-your-resume-with-ai/)
 
 
 ## Career
@@ -181,7 +176,6 @@ Legend:
 - [Professional Programming](https://github.com/charlax/professional-programming)
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 - [cvlogin](https://cvlogin.com/)
-
 
 ## Events, Podcasts and shows
 - [Goto;](https://www.youtube.com/user/GotoConferences)
@@ -276,7 +270,6 @@ Legend:
 
 ## Open Source (OSS)
 - [Best New Open Source Alternatives](https://osssoftware.org/open-source-alternatives/)
-- 📜 [Open Source alternatives to tools you Pay for](https://dev.to/johnrushx/open-source-alternatives-to-tools-you-pay-for-1g9c)
 - [CNCF Landscape](https://landscape.cncf.io/)
 
 ## Random/Misc
