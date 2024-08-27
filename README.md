@@ -128,7 +128,7 @@ Legend:
   - [Tools on Github](https://github.com/openapitools)
   - [stoplight](https://stoplight.io/solutions)
 
-## Courses
+## Continuous learning
 - ⭐[freecodecamp](https://www.freecodecamp.org/)
 - [Microsoft Learn](https://learn.microsoft.com/en-us/training/)
 - [DevOps Courses](https://www.edx.org/learn/devops)
@@ -222,6 +222,7 @@ Legend:
 - [Awesome Actions](https://github.com/sdras/awesome-actions)
 - [Byte byte go's System Design 101](https://github.com/ByteByteGoHq/system-design-101)
 - AR [Awesome in Arabic](https://github.com/abdumostafa/awesome-in-arabic)
+- AR [Awesome Arabic Speakers](https://github.com/sahaba-ai/awesome-arabic-speakers)
 
 
 ## Twitter & LinkedIn profile to follow
@@ -275,6 +276,5 @@ Legend:
 ## Random/Misc
 - [Most stars repositories on GitHub](https://github.com/search?o=desc&q=stars%3A%3E100000&s=stars&type=Repositories)
 - [Project Management AntiPatterns](https://sourcemaking.com/antipatterns/software-project-management-antipatterns)
-- [10 GitHub repositories to advance your career as a Developer](https://dev.to/iarchitsharma/10-as-a-developer-egn)
 - [Code Crafters](https://app.codecrafters.io/) Practice Writing Complex Software
 - [Latency Numbers Every Programmer Should Know](https://gist.github.com/jboner/2841832) - [Visual](https://gist.github.com/hellerbarde/2843375)
