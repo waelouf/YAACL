@@ -31,9 +31,9 @@ Table of contents:
 This repo is heavily inspired by sindresorhus's [Awesome](https://github.com/sindresorhus/awesome) repository
 
 Legend:
-- ⭐- Recommended
+- ⭐ - Recommended
 - 💲 - Paid
-- 📜- Article
+- 💻 - Hands on 
 - AR - Arabic content
 
 ## News
@@ -244,6 +244,7 @@ Legend:
 - [wing](https://www.winglang.io/): A cloud-oriented programming language
 - [The Google Cloud Developer's Visual Notes](https://github.com/priyankavergadia/GCPSketchnote)
 - [Computer Networking Tutorial: The Ultimate Guide](https://www.softwaretestinghelp.com/computer-networking-basics/)
+- 💻 [kodekloud](https://kodekloud.com/)
 
 ### AWS
 - [AWS Skill builder](https://explore.skillbuilder.aws/learn/)
