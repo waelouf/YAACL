@@ -16,6 +16,7 @@
 ## Open Source (OSS)
 
 - [Open Source alternatives to tools you Pay for](https://dev.to/johnrushx/open-source-alternatives-to-tools-you-pay-for-1g9c)
+- [The Top 12 Open-Source No-Code Tools with the Most GitHub Stars](https://dev.to/nocobase/the-top-12-open-source-no-code-tools-with-the-most-github-stars-4aac)
 
 ## Random/Misc
 - [10 GitHub repositories to advance your career as a Developer](https://dev.to/iarchitsharma/10-as-a-developer-egn)
