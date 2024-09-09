@@ -100,7 +100,6 @@ Legend:
 - [Serverless Land](https://serverlessland.com/): Building Event Driven Architectures
 - [EVA Visuals](https://eda-visuals.boyney.io/): Event-driven architectures visuals
 - [Architectural Decision Records (ADRs)](https://adr.github.io/)
-- [https://plantuml.com/](https://plantuml.com/)
 - [High Scalability](https://highscalability.com/)
 
 ### Architecture tools
@@ -114,6 +113,7 @@ Legend:
 - [Mermaid Live editor](https://mermaid.live/)
 - [excalidraw](https://excalidraw.com/)
 - [coggle](https://coggle.it/) - Mind-maps
+- [PlantUML](https://plantuml.com/)
 
 
 ### Microservices
