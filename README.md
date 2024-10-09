@@ -201,6 +201,7 @@ Legend:
 - [LearnCantrill](https://www.youtube.com/@LearnCantrill/videos)
 - [Thriving Technologist](https://youtube.com/@healthydev)
 - [Exponent](https://www.youtube.com/@tryexponent/)
+- [Hello Interview - SWE Interview Preparation](https://www.youtube.com/@hello_interview/videos)
 
 ## git repos
 - [Backstage](https://github.com/backstage/backstage): Open platform for building developer portals
