@@ -10,6 +10,7 @@ Table of contents:
     - [Architecture tools](#architecture-tools)
     - [Microservices](#microservices)
     - [OpenAPI](#openapi)
+  - [Continuous learning](#continuous-learning)
   - [Database](#database)
   - [AI](#ai)
     - [Coding](#coding)
@@ -20,8 +21,11 @@ Table of contents:
   - [Youtube channels](#youtube-channels)
   - [git repos](#git-repos)
   - [Twitter \& LinkedIn profile to follow](#twitter--linkedin-profile-to-follow)
+  - [DevOps \& SRE](#devops--sre)
   - [Cloud](#cloud)
     - [AWS](#aws)
+  - [Homelab](#homelab)
+  - [Open Source (OSS)](#open-source-oss)
   - [Random/Misc](#randommisc)
 
 
@@ -76,6 +80,7 @@ Legend:
 - [Software Architect](https://roadmap.sh/software-architect)
 - [Solution Architecture](https://github.com/NikAshanin/Solution-Architect-Road-Map)
 - [DevOps Roadmap 2022](https://github.com/milanm/DevOps-Roadmap)
+- [Dynamic DevOps Roadmap](https://roadmap.devopshive.net/getting-started/)
 
 
 ## Design patterns
