@@ -22,7 +22,7 @@
 - [Open Source alternatives to tools you Pay for](https://dev.to/johnrushx/open-source-alternatives-to-tools-you-pay-for-1g9c)
 - [The Top 12 Open-Source No-Code Tools with the Most GitHub Stars](https://dev.to/nocobase/the-top-12-open-source-no-code-tools-with-the-most-github-stars-4aac)
 - [200 Project Ideas from Beginner to Advanced with Open Source Contributions](https://dev.to/kishansheth/200-project-ideas-from-beginner-to-advanced-with-open-source-contributions-3g6a)
-- 
+- [Top 12 Open Source Repositories to Watch in 2025 to Become the Ultimate Developer](https://dev.to/taipy/top-12-open-source-repositories-to-watch-in-2025-to-become-the-ultimate-developer-4979)
 
 ## Random/Misc
 - [10 GitHub repositories to advance your career as a Developer](https://dev.to/iarchitsharma/10-as-a-developer-egn)
@@ -35,4 +35,3 @@
 - [A CheatSheet of 128 CheatSheets for Developers](https://dev.to/devmount/a-cheatsheet-of-128-cheatsheets-for-developers-f4m?ref=dailydev)
 - [Cheatsheets for Developers](https://medium.com/@vrkunduri/cheatsheets-for-developers-1bf378aafcb0)
 - [Realizing the potential of GitOps](https://itnext.io/realizing-the-potential-of-gitops-263051baff04)
-- 
