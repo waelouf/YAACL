@@ -35,3 +35,4 @@
 - [A CheatSheet of 128 CheatSheets for Developers](https://dev.to/devmount/a-cheatsheet-of-128-cheatsheets-for-developers-f4m?ref=dailydev)
 - [Cheatsheets for Developers](https://medium.com/@vrkunduri/cheatsheets-for-developers-1bf378aafcb0)
 - [Realizing the potential of GitOps](https://itnext.io/realizing-the-potential-of-gitops-263051baff04)
+- [How to Pipe and Redirect Like a Pro in the Linux Command Line](https://www.howtogeek.com/how-to-pipe-and-redirect-like-a-pro-in-the-linux-command-line/)
