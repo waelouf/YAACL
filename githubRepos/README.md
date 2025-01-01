@@ -37,4 +37,10 @@
 
 ### KB / Awesome 
 - [DevOps](https://github.com/Pradumnasaraf/DevOps): I created this repository to keep my learning, notes, and code in one place for various tools in DevOps. Now, it's helping thousands of learners, practitioners, and professionals every day in their DevOps journey.
+- [EbookFoundation](https://github.com/EbookFoundation/free-programming-books)
+- [Public APIs](https://github.com/public-apis/public-apis)
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+- [The Book of secret knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 
+### Javascript
+- [You Don't Need JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript)
