@@ -242,6 +242,7 @@ Legend:
 
 ## DevOps & SRE
 - [Google's Site Reliability Engineering (SRE) book](https://sre.google/sre-book/table-of-contents/?utm_source=substack&utm_medium=email)
+- [Awesome SRE](https://sre.xyz/)
 
 ## Cloud
 - [Cloud Native End User Technology Radar](https://radar.cncf.io/)
