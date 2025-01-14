@@ -80,7 +80,7 @@ Legend:
 - [Software Architect](https://roadmap.sh/software-architect)
 - [Solution Architecture](https://github.com/NikAshanin/Solution-Architect-Road-Map)
 - [DevOps Roadmap 2022](https://github.com/milanm/DevOps-Roadmap)
-- [Dynamic DevOps Roadmap](https://roadmap.devopshive.net/getting-started/)
+- [Dynamic DevOps Roadmap](https://devopsroadmap.io/)
 
 
 ## Design patterns
