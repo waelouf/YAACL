@@ -41,6 +41,7 @@
 - [Public APIs](https://github.com/public-apis/public-apis)
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 - [The Book of secret knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
+- [Awesome Site Reliability Engineering](https://github.com/dastergon/awesome-sre/)
 
 ### Javascript
 - [You Don't Need JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript)
