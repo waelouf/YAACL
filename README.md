@@ -43,7 +43,6 @@ Legend:
 - [Hacker News](https://news.ycombinator.com/)
 - [thoughtworks's Technology Radar](https://www.thoughtworks.com/radar)
 - [DEV Community](https://dev.to/)
-- [daily.dev](https://app.daily.dev/)
 - [DNK - DotNetKicks](https://dotnetkicks.com/)
 
 ## Books
