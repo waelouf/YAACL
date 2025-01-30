@@ -36,3 +36,4 @@
 - [Cheatsheets for Developers](https://medium.com/@vrkunduri/cheatsheets-for-developers-1bf378aafcb0)
 - [Realizing the potential of GitOps](https://itnext.io/realizing-the-potential-of-gitops-263051baff04)
 - [How to Pipe and Redirect Like a Pro in the Linux Command Line](https://www.howtogeek.com/how-to-pipe-and-redirect-like-a-pro-in-the-linux-command-line/)
+- [🌐 🚀 Top 400 Websites every developer should know 🌟 AND🔥 200 Project Ideas from Beginner to Advanced](https://dev.to/hanzla-baig/top-230-websites-every-developer-should-know-2og9)
