@@ -16,6 +16,7 @@ Table of contents:
     - [Coding](#coding)
     - [Images](#images)
     - [Other](#other)
+    - [Benchmarks](#benchmarks)
   - [Career](#career)
   - [Events, Podcasts and shows](#events-podcasts-and-shows)
   - [Youtube channels](#youtube-channels)
@@ -173,6 +174,10 @@ Legend:
 - [rytr](https://rytr.me/): Rytr is an AI writing assistant that helps you create high-quality content, in just a few seconds, at a fraction of the cost
 - [G2](https://www.g2.com/): AI assistant for buying software, powered by ChatGPT.
 
+### Benchmarks
+- [Artificial Analysis](https://artificialanalysis.ai/models)
+- [LM Arena](https://lmarena.ai/)
+- [WebDev Arena Leaderboard](https://web.lmarena.ai/leaderboard)
 
 ## Career
 - [Modern resume theme for GitHub pages](https://github.com/sproogen/modern-resume-theme)
