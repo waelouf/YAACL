@@ -291,3 +291,4 @@ Legend:
 - [Project Management AntiPatterns](https://sourcemaking.com/antipatterns/software-project-management-antipatterns)
 - [Code Crafters](https://app.codecrafters.io/) Practice Writing Complex Software
 - [Latency Numbers Every Programmer Should Know](https://gist.github.com/jboner/2841832) - [Visual](https://gist.github.com/hellerbarde/2843375)
+- [Akka.NET Bootcamp](https://petabridge.com/bootcamp/lessons/)
