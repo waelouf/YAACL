@@ -159,6 +159,7 @@ Legend:
 - [tabnine](https://www.tabnine.com/)
 - [cody](https://about.sourcegraph.com/cody)
 - [mutable](https://mutable.ai/)
+- [KitOps](https://github.com/jozu-ai/kitops)
 
 ### Images
 - [Midjourney](https://www.midjourney.com/home/) - [Discord](https://discord.com/channels/662267976984297473/966491148640211034)
