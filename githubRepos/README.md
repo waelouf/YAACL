@@ -11,6 +11,12 @@
 - [clean-architecture](https://github.com/amantinband/clean-architecture): The ultimate clean architecture template for .NET applications 💪
 - [AboutCleanCode](https://github.com/plainionist/AboutCleanCode): Hosts the code developed in the coding tutorials at https://www.youtube.com/c/AboutCleanCode
 
+### System design
+- [System Design Primer](https://github.com/donnemartin/system-design-primer)
+- [System Design](https://github.com/systemdesign42/system-design) - Fundamentals & Case studies
+- [Awesome System Design Rresources](https://github.com/ashishps1/awesome-system-design-resources)
+- [System Design 101](https://github.com/ByteByteGoHq/system-design-101)
+- [Awesome System Design](https://github.com/madd86/awesome-system-design)
 
 ### Libraries & Frameworks
 - 🧪 [Bogus](https://github.com/bchavez/Bogus): 📇 A simple fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.
@@ -45,3 +51,4 @@
 
 ### Javascript
 - [You Don't Need JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript)
+- [Learning JavaScript Design Patterns](https://github.com/addyosmani/essential-js-design-patterns)
