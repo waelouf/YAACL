@@ -174,6 +174,7 @@ Legend:
 - [writerly.ai](https://writerly.ai/): Helps the most innovative businesses, teams, and creators produce hyper-relevant, SEO optimized content
 - [rytr](https://rytr.me/): Rytr is an AI writing assistant that helps you create high-quality content, in just a few seconds, at a fraction of the cost
 - [G2](https://www.g2.com/): AI assistant for buying software, powered by ChatGPT.
+- [AI Agents for Beginners - A Course](https://github.com/microsoft/ai-agents-for-beginners)
 
 ### Benchmarks
 - [Artificial Analysis](https://artificialanalysis.ai/models)
