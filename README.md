@@ -34,10 +34,20 @@ Table of contents:
 
 This repo is heavily inspired by sindresorhus's [Awesome](https://github.com/sindresorhus/awesome) repository
 
+<p align="center">
+  <a href="https://awesome.re">
+    <img src="https://awesome.re/badge.svg" alt="Awesome" />
+  </a>
+  <a href="https://makeapullrequest.com">
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" />
+  </a>
+</p>
+
 Legend:
 - ⭐ - Recommended
 - 💲 - Paid
 - 💻 - Hands on 
+- 🕶 - Awesome list
 - AR - Arabic content
 
 ## News
@@ -96,7 +106,7 @@ Legend:
 - ⭐[The System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [Back of the Envelope Calculation](https://dev.to/vladisov/back-of-the-envelope-calculation-4eal)
 - [Clean Architecture with .NET Core](https://jasontaylor.dev/clean-architecture-getting-started/)
-- [Awesome Software and Architectural Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
+- 🕶 [Awesome Software and Architectural Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
 - [Martin Fowler Catalog of Patterns of Enterprise Application Architecture](https://martinfowler.com/eaaCatalog/)
 - [RedHat Enable Architect](https://www.redhat.com/architect/)
 - [High scalability](http://highscalability.com/)
@@ -119,6 +129,7 @@ Legend:
 - [excalidraw](https://excalidraw.com/)
 - [coggle](https://coggle.it/) - Mind-maps
 - [PlantUML](https://plantuml.com/)
+- [mural](https://www.mural.co/)
 
 
 ### Microservices
@@ -217,7 +228,7 @@ Legend:
 
 ## git repos
 - [Backstage](https://github.com/backstage/backstage): Open platform for building developer portals
-- [Awesome .NET](https://github.com/quozd/awesome-dotnet)
+- 🕶 [Awesome .NET](https://github.com/quozd/awesome-dotnet)
 - [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks)
 - [Samples for ASP.NET Core 6.0](https://github.com/dodyg/practical-aspnetcore)
 - [Samples for ASP.NET Core 7.0](https://github.com/dodyg/practical-aspnetcore/tree/net6.0/projects/.net7)
@@ -232,10 +243,10 @@ Legend:
     - .NET [with Microservices approach](https://github.com/thangchung/coffeeshop-on-nomad)
     - .NET [with Modular Monolith approach](https://github.com/thangchung/coffeeshop-modular)
 - [API Security Checklist](https://github.com/shieldfy/API-Security-Checklist)
-- [Awesome Actions](https://github.com/sdras/awesome-actions)
+- 🕶 [Awesome Actions](https://github.com/sdras/awesome-actions)
 - [Byte byte go's System Design 101](https://github.com/ByteByteGoHq/system-design-101)
-- AR [Awesome in Arabic](https://github.com/abdumostafa/awesome-in-arabic)
-- AR [Awesome Arabic Speakers](https://github.com/sahaba-ai/awesome-arabic-speakers)
+- AR 🕶 [Awesome in Arabic](https://github.com/abdumostafa/awesome-in-arabic)
+- AR 🕶 [Awesome Arabic Speakers](https://github.com/sahaba-ai/awesome-arabic-speakers)
 
 
 ## Twitter & LinkedIn profile to follow
@@ -249,7 +260,7 @@ Legend:
 
 ## DevOps & SRE
 - [Google's Site Reliability Engineering (SRE) book](https://sre.google/sre-book/table-of-contents/?utm_source=substack&utm_medium=email)
-- [Awesome SRE](https://sre.xyz/)
+- 🕶 [Awesome SRE](https://sre.xyz/)
 
 ## Cloud
 - [Cloud Native End User Technology Radar](https://radar.cncf.io/)

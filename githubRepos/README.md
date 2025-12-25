@@ -14,9 +14,9 @@
 ### System design
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [System Design](https://github.com/systemdesign42/system-design) - Fundamentals & Case studies
-- [Awesome System Design Rresources](https://github.com/ashishps1/awesome-system-design-resources)
+- 🕶 [Awesome System Design Rresources](https://github.com/ashishps1/awesome-system-design-resources)
 - [System Design 101](https://github.com/ByteByteGoHq/system-design-101)
-- [Awesome System Design](https://github.com/madd86/awesome-system-design)
+- 🕶 [Awesome System Design](https://github.com/madd86/awesome-system-design)
 
 ### Libraries & Frameworks
 - 🧪 [Bogus](https://github.com/bchavez/Bogus): 📇 A simple fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.
@@ -47,9 +47,15 @@
 - [Public APIs](https://github.com/public-apis/public-apis)
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 - [The Book of secret knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
-- [Awesome Site Reliability Engineering](https://github.com/dastergon/awesome-sre/)
-- [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers)
+- 🕶 [Awesome Site Reliability Engineering](https://github.com/dastergon/awesome-sre/)
+- 🕶 [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers)
 
 ### Javascript
 - [You Don't Need JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript)
 - [Learning JavaScript Design Patterns](https://github.com/addyosmani/essential-js-design-patterns)
+
+### AI & Advanced Prompting
+
+- [Fabric](https://github.com/danielmiessler/Fabric)
+- [TÂCHES Claude Code](https://github.com/glittercowboy/taches-cc-resources) - Meta prompting, skill and agent creator
+- 🕶 [Awesome Claude Skills](https://github.com/ComposioHQ/awesome-claude-skills)
