@@ -59,5 +59,6 @@
 - [Fabric](https://github.com/danielmiessler/Fabric)
 - [TÂCHES Claude Code](https://github.com/glittercowboy/taches-cc-resources) - Meta prompting, skill and agent creator
 - 🕶 [Awesome Claude Skills](https://github.com/ComposioHQ/awesome-claude-skills)
+- 🕶 [Awesome Claude Code](https://github.com/hesreallyhim/awesome-claude-code)
 - [superpowers](https://github.com/obra/superpowers)
 - [AutoCoder](https://github.com/leonvanzyl/autocoder/)
